@@ -2,5 +2,6 @@
 2
 Editing the master branch
 3
+Adding new branch before branch1
 4
 This data is from branch1
